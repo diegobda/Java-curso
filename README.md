@@ -17,9 +17,6 @@ Este repositório contém exemplos e exercícios para o curso de Java.
 
 11. [Operador Concicional Ternario ](11-OperadorConcicionalTernario/OperadoresTernarios.java) ↔️
 
-11-
-Cada tópico contém exemplos e explicações sobre o conceito abordado.
-
 ---
 
 ## 📝 Autor

@@ -13,8 +13,11 @@ Este repositório contém exemplos e exercícios para o curso de Java.
 07. [Operadores de Atribuição](07-OperadoresAtribuicao/Operadores.java) ➕
 08. [Operadores Aritméticos](08-OperadoresAritmeticos/OperadoresAritmeticos.java) ➖
 09. [Operadores de Incremento e Decremento](09-OperadoresIncrementoDecremento/OperadoresIncrementoDecremento.java) ⚙️
-10. [Operadores Relacionais](10-OperadoresRelacionais/README.md) ↔️
+10. [Operadores Relacionais](10-OperadoresRelacionais/OperadoresRelacionais.java) ↔️
 
+11. [Operador Concicional Ternario ](11-OperadorConcicionalTernario/OperadoresTernarios.java) ↔️
+
+11-
 Cada tópico contém exemplos e explicações sobre o conceito abordado.
 
 ---
